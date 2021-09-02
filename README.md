@@ -1,4 +1,4 @@
-# NFTcalendar
+## NFTcalendar
 - 9/3 Friday
   - AB Curated 147
     - max 1000, 9am PST
