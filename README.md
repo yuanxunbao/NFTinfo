@@ -7,9 +7,13 @@
     - max 2400, 10am PST (1pm EST)
     - 20 min pre-mint for genesis owners
     - 0.08
+- 9/7 
   - Galaxy eggs
-    - 9/7
     - free for early adopters
+
+- 9/9 
+  - 药丸 access keys
+- Future   
   - Non-fungible-hero
     - 3 bananas = 1 mint
   
