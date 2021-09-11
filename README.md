@@ -11,15 +11,15 @@
   - party polar bear drop
   - 4am est - 7:15 est 
   - 
-- 9/7 
-  - Galaxy eggs
-    - free for early adopters
-
 - 9/9 
   - 药丸 access keys
 - Future   
   - Non-fungible-hero
     - 3 bananas = 1 mint
+- 9/13 
+  - Galaxy eggs presale 11est, 24hrs
+- 9/14
+  - Galaxy eggs public mint
   
 ## Projects
 - The Wanderers
