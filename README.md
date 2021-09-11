@@ -18,6 +18,7 @@
     - 3 bananas = 1 mint
 - 9/13 
   - Galaxy eggs presale 11est, 24hrs
+  - ab curated 9am
 - 9/14
   - Galaxy eggs public mint
   
