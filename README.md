@@ -21,6 +21,8 @@
   - ab curated 9am
 - 9/14
   - Galaxy eggs public mint
+- 9/16
+  - nonfungible hero minting
   
 ## Projects
 - The Wanderers
