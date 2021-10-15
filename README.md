@@ -23,6 +23,15 @@
   - Galaxy eggs public mint
 - 9/16
   - nonfungible hero minting
+- 10/19 - 10/26
+  - vogu mutts airdrop
+- 10/22 - 10/25
+  - alpaca 
+- 10/15 - 10/18
+  - goatz forge
+- 10/22 - 10/27
+  - kidz claim
+  
   
 ## Projects
 - The Wanderers
